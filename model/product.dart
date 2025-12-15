@@ -1,4 +1,4 @@
-import 'package:flutter_application_1/model/rating.dart';
+import 'rating.dart';
 
 class Product {
   int id;
